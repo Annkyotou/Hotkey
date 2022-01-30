@@ -1,2 +1,2 @@
 # Hotkey
-Convenient shortcut keys.
+Convenient hot keys.
